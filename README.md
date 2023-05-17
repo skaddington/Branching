@@ -9,6 +9,7 @@
 * 'git status' - show ccommit status of local working folder
 * 'git log' - list commit history of local repo
 * 'git log --oneline' - list commit history (compact format)
+* 'git config -l' - list local Git configuration settings
 
 ## Branch commands
 * 'git branch' - list local branches
